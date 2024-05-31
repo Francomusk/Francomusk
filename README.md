@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @FrankFourier, I'm a mechanical engineer and Solidity developer. I'm 31 years old and I'm from Italy. Please feel free to contribute to my repositories.
+- 👋 Hi all, I’m Frank, I'm a mechanical engineer, full-stack and web3 developer. I'm 31 years old and I'm from Italy. Please feel free to contribute to my repositories.
